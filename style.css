@@ -1,0 +1,16 @@
+* {
+    margin: 0s;
+}
+
+
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    border: solid 1px gold;
+}
+
+li {
+    margin-right: 100px;
+}
